@@ -1,4 +1,4 @@
-![refloor's GitHub stats](https://github-readme-stats.vercel.app/api?username=refloor&show_icons=true&theme=tokyonight)
+![refloor's GitHub stats](https://github-readme-stats.vercel.app/api?username=refloor&show_icons=true)
 <!--
 **refloor/refloor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
