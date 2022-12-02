@@ -2,7 +2,7 @@
   <img src="https://github.com/refloor/refloor/blob/main/image/leak.gif" width="100%" alt="refloor"></center>
 </p>
 
-<h1 align="center">Helo 👋, I'm Meng-zhe Qiu</h1>
+<h1 align="center">Hello 👋, I'm Meng-zhe Qiu</h1>
 
 <p align="center">
   <br><br>
