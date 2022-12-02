@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/rahmatsubandi/rahmatsubandi/blob/main/image/leak.gif" width="100%" alt="refloor"></center>
+  <img src="https://github.com/refloor/refloor/blob/main/image/leak.gif" width="100%" alt="refloor"></center>
 </p>
 
 <h1 align="center">Helo 👋, I'm Meng-zhe Qiu</h1>
