@@ -7,7 +7,7 @@
 <p align="center">
   <br><br>
   <samp>
-I'm blbababababbbbabababababababab
+      <b>An undergraduate student major in computer science & technology, going for master degree.</b> This is my <a href="https://www.mengzheqiu.top" target="_blank">Academic Website</a>. If your interested,  please contact with me.
      <br><br>Contact me on <a href="https://t.me/refloor" target="_blank">Telegram</a> or <a href="mailto:mengzheqiu@outlook.com" target="_blank">Send an Email</a>
   </samp>
 <br><br>
@@ -15,25 +15,26 @@ I'm blbababababbbbabababababababab
     <img src="https://komarev.com/ghpvc/?username=refloor&label=Profile%20views&color=1abc9c&style=flat" alt="refloor" />
 </p>
 
+
 <h3 align="center">Connect with me 😃</h3>
 
 <p align="center">
   <a href="https://www.mengzheqiu.top" target="_blank">
     <img height="20" src="https://raw.githubusercontent.com/refloor/refloor/master/image/www.jpg" alt="WWW link to profile" />
   </a>&nbsp;&nbsp;
-
   <a href="mailto:mengzheqiu@outlook.com" target="_blank">
-    <img height="20" src="https://raw.githubusercontent.com/refloor/refloor/master/image/mail.png" alt="LinkedIn link to profile" />
+    <img height="20" src="https://raw.githubusercontent.com/refloor/refloor/master/image/mail.png" alt="EMail link to profile" />
   </a>&nbsp;&nbsp;
 
   <a href="https://scholar.google.com.hk/citations?user=KSUSmmkAAAAJ" target="_blank">
-    <img height="20" src="https://raw.githubusercontent.com/refloor/refloor/master/image/google.png" alt="Linktree link to profile" />
+    <img height="20" src="https://raw.githubusercontent.com/refloor/refloor/master/image/google.png" alt="Google Scholar link to profile" />
   </a>&nbsp;&nbsp;
 
   <a href="https://orcid.org/my-orcid?orcid=0000-0002-5166-4697" target="_blank">
-    <img height="20" src="https://raw.githubusercontent.com/refloor/refloor/master/image/orcid.png" alt="Medium link to profile" />
+    <img height="20" src="https://raw.githubusercontent.com/refloor/refloor/master/image/orcid.png" alt="Orcid link to profile" />
   </a>
 </p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=refloor&show_icons=true" width="450px" alt="refloor" />&nbsp;
 </p>
