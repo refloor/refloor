@@ -22,8 +22,13 @@
   <a href="https://www.mengzheqiu.top" target="_blank">
     <img height="20" src="https://raw.githubusercontent.com/refloor/refloor/master/image/www.jpg" alt="WWW link to profile" />
   </a>&nbsp;&nbsp;
+  
   <a href="mailto:mengzheqiu@outlook.com" target="_blank">
     <img height="20" src="https://raw.githubusercontent.com/refloor/refloor/master/image/mail.png" alt="EMail link to profile" />
+  </a>&nbsp;&nbsp;
+  
+  <a href="https://www.kaggle.com/mengzheqiu" target="_blank">
+    <img height="20" src="https://raw.githubusercontent.com/refloor/refloor/master/image/kaggle.png" alt="Kaggle link to profile" />
   </a>&nbsp;&nbsp;
 
   <a href="https://scholar.google.com.hk/citations?user=KSUSmmkAAAAJ" target="_blank">
